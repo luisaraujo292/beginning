@@ -5,7 +5,7 @@ function HomePage(props) {
   return (
     <div>
       <h1>Hello, Next.js!</h1>
-      <p>This is a simple example.</p>
+      <p>This is a simple example. Luís made a change.</p>
       <p>{props.message}</p>
     </div>
   );
